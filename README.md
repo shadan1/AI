@@ -1,3 +1,4 @@
 # AI
 
-Deep learning @@@
+Deep learning @@@`i
+CNN
